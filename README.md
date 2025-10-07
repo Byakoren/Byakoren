@@ -65,13 +65,15 @@ I'm an undergraduate student at **ESGI** specializing in **AI & Big Data**, curr
 
 ---
 
-### ⚙️ **PPE_1 (Symfony)** — Fullstack PHP Web App  
-> A full-featured project built with **Symfony**, following the MVC pattern, with authentication, CRUD logic, and templating using Twig.
+### ⚙️ **PPE_1 (Symfony)** — Training Center Attendance Web App  
+> A complete web project developed during my **BTS** program.  
+> The goal was to design and implement an **attendance (émargement) management system** for a **training center**, allowing staff to manage students, sessions, and attendance records through a secure web interface.
 
 🧱 PHP • Symfony • Twig • SQL • HTML/CSS  
-📦 Designed around clean architecture and reusability  
-🧩 Integrates ORM & entity management with Symfony Doctrine  
+📦 Built with clean architecture, following the MVC pattern  
+🧩 Uses Doctrine ORM for database management and Twig for templating  
 [🔗 Repository](https://github.com/Byakoren/PPE_1)
+
 
 ---
 

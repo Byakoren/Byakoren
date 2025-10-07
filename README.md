@@ -56,7 +56,7 @@ I'm an undergraduate student at **ESGI** specializing in **AI & Big Data**, curr
 ## 🗂️ Featured Projects
 
 ### 🧩 **TaskForge** — Progressive Task Manager  
-> A long-term evolving web project developed as part of my ESGI work-study program.
+> A long-term evolving web project developed as part of my work-study program.
 
 🧱 TypeScript • Node.js (Express) • React / Next.js  
 🐳 Dockerized app with PostgreSQL  
